@@ -1,0 +1,5 @@
+[ 2025-11-08 22:03:24,718 ] 97 werkzeug - WARNING - * Debugger is active!
+[ 2025-11-08 22:03:24,723 ] 97 werkzeug - INFO - * Debugger PIN: 135-486-070
+[ 2025-11-08 22:03:26,978 ] 14 root - INFO -Error occured in python script name [C:\Users\SUPRA\Downloads\MACHINE LEARNING\Projects\ML Projects\ML Pipeline Project\app.py] line number [11] error message [We are testing our second methods of logging.]
+[ 2025-11-08 22:03:26,979 ] 97 werkzeug - INFO -127.0.0.1 - - [08/Nov/2025 22:03:26] "GET / HTTP/1.1" 200 -
+[ 2025-11-08 22:03:37,947 ] 97 werkzeug - INFO - * Detected change in 'C:\\Users\\SUPRA\\Downloads\\MACHINE LEARNING\\Projects\\ML Projects\\ML Pipeline Project\\src\\exception.py', reloading

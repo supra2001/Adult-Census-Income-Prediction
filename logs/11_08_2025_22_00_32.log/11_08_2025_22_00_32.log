@@ -1,0 +1,21 @@
+[ 2025-11-08 22:00:32,080 ] 97 werkzeug - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2025-11-08 22:00:32,080 ] 97 werkzeug - INFO -[33mPress CTRL+C to quit[0m
+[ 2025-11-08 22:00:32,081 ] 97 werkzeug - INFO - * Restarting with stat
+[ 2025-11-08 22:00:32,326 ] 97 werkzeug - WARNING - * Debugger is active!
+[ 2025-11-08 22:00:32,330 ] 97 werkzeug - INFO - * Debugger PIN: 135-486-070
+[ 2025-11-08 22:00:37,159 ] 14 root - INFO -Error occured in python script name [C:\Users\SUPRA\Downloads\MACHINE LEARNING\Projects\ML Projects\ML Pipeline Project\app.py] line number [11] error message [We are testing our second methods of logging.]
+[ 2025-11-08 22:00:37,161 ] 97 werkzeug - INFO -127.0.0.1 - - [08/Nov/2025 22:00:37] "GET / HTTP/1.1" 200 -
+[ 2025-11-08 22:00:47,170 ] 14 root - INFO -Error occured in python script name [C:\Users\SUPRA\Downloads\MACHINE LEARNING\Projects\ML Projects\ML Pipeline Project\app.py] line number [11] error message [We are testing our second methods of logging.]
+[ 2025-11-08 22:00:47,170 ] 97 werkzeug - INFO -127.0.0.1 - - [08/Nov/2025 22:00:47] "GET / HTTP/1.1" 200 -
+[ 2025-11-08 22:01:51,102 ] 97 werkzeug - INFO -127.0.0.1 - - [08/Nov/2025 22:01:51] "[33mGET /index HTTP/1.1[0m" 404 -
+[ 2025-11-08 22:02:19,117 ] 14 root - INFO -Error occured in python script name [C:\Users\SUPRA\Downloads\MACHINE LEARNING\Projects\ML Projects\ML Pipeline Project\app.py] line number [11] error message [We are testing our second methods of logging.]
+[ 2025-11-08 22:02:19,118 ] 97 werkzeug - INFO -127.0.0.1 - - [08/Nov/2025 22:02:19] "GET / HTTP/1.1" 200 -
+[ 2025-11-08 22:02:55,298 ] 97 werkzeug - INFO - * Detected change in 'C:\\Users\\SUPRA\\Downloads\\MACHINE LEARNING\\Projects\\ML Projects\\ML Pipeline Project\\app.py', reloading
+[ 2025-11-08 22:02:55,338 ] 97 werkzeug - INFO - * Restarting with stat
+[ 2025-11-08 22:03:12,930 ] 97 werkzeug - INFO - * Restarting with stat
+[ 2025-11-08 22:03:24,455 ] 97 werkzeug - INFO - * Restarting with stat
+[ 2025-11-08 22:03:37,991 ] 97 werkzeug - INFO - * Restarting with stat
+[ 2025-11-08 22:03:39,341 ] 97 werkzeug - INFO - * Restarting with stat
+[ 2025-11-08 22:04:30,686 ] 97 werkzeug - INFO - * Restarting with stat
+[ 2025-11-08 22:04:33,044 ] 97 werkzeug - INFO - * Restarting with stat

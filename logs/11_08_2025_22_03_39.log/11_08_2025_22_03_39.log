@@ -1,0 +1,17 @@
+[ 2025-11-08 22:03:39,628 ] 97 werkzeug - WARNING - * Debugger is active!
+[ 2025-11-08 22:03:39,635 ] 97 werkzeug - INFO - * Debugger PIN: 135-486-070
+[ 2025-11-08 22:03:42,196 ] 14 root - INFO -Error occured in python script name [C:\Users\SUPRA\Downloads\MACHINE LEARNING\Projects\ML Projects\ML Pipeline Project\app.py] line number [11] error message [We are testing our second methods of logging.]
+[ 2025-11-08 22:03:42,197 ] 97 werkzeug - INFO -127.0.0.1 - - [08/Nov/2025 22:03:42] "GET / HTTP/1.1" 200 -
+[ 2025-11-08 22:04:09,247 ] 14 root - INFO -Error occured in python script name [C:\Users\SUPRA\Downloads\MACHINE LEARNING\Projects\ML Projects\ML Pipeline Project\app.py] line number [11] error message [We are testing our second methods of logging.]
+[ 2025-11-08 22:04:09,258 ] 97 werkzeug - INFO -127.0.0.1 - - [08/Nov/2025 22:04:09] "GET / HTTP/1.1" 200 -
+[ 2025-11-08 22:04:09,913 ] 14 root - INFO -Error occured in python script name [C:\Users\SUPRA\Downloads\MACHINE LEARNING\Projects\ML Projects\ML Pipeline Project\app.py] line number [11] error message [We are testing our second methods of logging.]
+[ 2025-11-08 22:04:09,913 ] 97 werkzeug - INFO -127.0.0.1 - - [08/Nov/2025 22:04:09] "GET / HTTP/1.1" 200 -
+[ 2025-11-08 22:04:10,288 ] 14 root - INFO -Error occured in python script name [C:\Users\SUPRA\Downloads\MACHINE LEARNING\Projects\ML Projects\ML Pipeline Project\app.py] line number [11] error message [We are testing our second methods of logging.]
+[ 2025-11-08 22:04:10,289 ] 97 werkzeug - INFO -127.0.0.1 - - [08/Nov/2025 22:04:10] "GET / HTTP/1.1" 200 -
+[ 2025-11-08 22:04:10,604 ] 14 root - INFO -Error occured in python script name [C:\Users\SUPRA\Downloads\MACHINE LEARNING\Projects\ML Projects\ML Pipeline Project\app.py] line number [11] error message [We are testing our second methods of logging.]
+[ 2025-11-08 22:04:10,604 ] 97 werkzeug - INFO -127.0.0.1 - - [08/Nov/2025 22:04:10] "GET / HTTP/1.1" 200 -
+[ 2025-11-08 22:04:10,874 ] 14 root - INFO -Error occured in python script name [C:\Users\SUPRA\Downloads\MACHINE LEARNING\Projects\ML Projects\ML Pipeline Project\app.py] line number [11] error message [We are testing our second methods of logging.]
+[ 2025-11-08 22:04:10,875 ] 97 werkzeug - INFO -127.0.0.1 - - [08/Nov/2025 22:04:10] "GET / HTTP/1.1" 200 -
+[ 2025-11-08 22:04:11,378 ] 14 root - INFO -Error occured in python script name [C:\Users\SUPRA\Downloads\MACHINE LEARNING\Projects\ML Projects\ML Pipeline Project\app.py] line number [11] error message [We are testing our second methods of logging.]
+[ 2025-11-08 22:04:11,379 ] 97 werkzeug - INFO -127.0.0.1 - - [08/Nov/2025 22:04:11] "GET / HTTP/1.1" 200 -
+[ 2025-11-08 22:04:30,628 ] 97 werkzeug - INFO - * Detected change in 'C:\\Users\\SUPRA\\Downloads\\MACHINE LEARNING\\Projects\\ML Projects\\ML Pipeline Project\\src\\exception.py', reloading
