@@ -1,7 +1,7 @@
 import os, sys
 import pandas as pd
 import numpy as np
-from logger import logging
+from src.logger import logging
 from src.exception import CustomException
 from dataclasses import dataclass
 from sklearn.model_selection import train_test_split
