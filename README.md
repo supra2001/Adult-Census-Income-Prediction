@@ -15,68 +15,63 @@ A complete end-to-end Machine Learning Pipeline designed to predict whether an i
 - Model comparison across multiple algorithms
 
 - Logging, exception handling, and artifact management
-
-📌 Project Structure
-Income_Prediction_Pipeline/
-│
-├── src/
-│   ├── components/
-│   │   ├── data_ingestion.py
-│   │   ├── data_transformation.py
-│   │   ├── model_trainer.py
-│   │
-│   ├── pipeline/
-│   │   ├── training_pipeline.py
-│   │   ├── prediction_pipeline.py
-│   │
-│   ├── utils.py
-│   ├── logger.py
-│   ├── exception.py
-│   │
-│   └── __init__.py
-│
-├── notebook/
-│   └── data/
-│       └── income_cleandata.csv
+ML_Pipeline_Income_Prediction/
 │
 ├── artifacts/
 │   ├── data_ingestion/
 │   │   ├── raw.csv
 │   │   ├── train.csv
-│   │   ├── test.csv
-│   │
+│   │   └── test.csv
 │   ├── data_transformation/
 │   │   └── preprocessor.pkl
-│   │
-│   ├── model_trainer/
+│   └── model_trainer/
 │       └── model.pkl
 │
-├── logs/
-│   └── timestamped_log_files.log
+├── notebook/
+│   └── data/
+│       └── income_cleandata.csv
 │
-├── requirements.txt
+├── logs/
+│   └── *.log
+│
+├── src/
+│   ├── components/
+│   │   ├── data_ingestion.py
+│   │   ├── data_transformation.py
+│   │   └── model_trainer.py
+│   │
+│   ├── pipeline/
+│   │   ├── training_pipeline.py
+│   │   └── prediction_pipeline.py
+│   │
+│   ├── utils.py
+│   ├── logger.py
+│   └── exception.py
+│
 ├── setup.py
+├── requirements.txt
 └── README.md
+
 
 📘 Project Overview
 
 The goal of this project is to classify whether a person earns more than 50K a year, using demographic attributes such as:
 
-Age
+- Age
 
-Education level
+- Education level
 
-Workclass
+- Workclass
 
-Marital status
+- Marital status
 
-Occupation
+- Occupation
 
-Hours per week
+- Hours per week
 
-Capital gain/loss
+- Capital gain/loss
 
-Native country
+- Native country
 
 And more
 
@@ -85,83 +80,81 @@ The pipeline is modular, maintainable, and production-ready, with clean separati
 ⚙️ Key Features
 1️⃣ Data Ingestion
 
-Loads cleaned dataset from the notebook/data directory
+- Loads cleaned dataset from the notebook/data directory
 
-Splits into train (70%) and test (30%)
+- Splits into train (70%) and test (30%)
 
-Saves artifacts in:
+- Saves artifacts in:
 
-artifacts/data_ingestion/raw.csv
-
-train.csv, test.csv
+  artifacts/data_ingestion/raw.csv, train.csv, test.csv
 
 2️⃣ Data Transformation
 
-Handles outliers using IQR capping
+- Handles outliers using IQR capping
 
-Applies median imputation for missing values
+- Applies median imputation for missing values
 
-Scales features using StandardScaler
+- Scales features using StandardScaler
 
-Uses ColumnTransformer and Pipeline
+- Uses ColumnTransformer and Pipeline
 
-Saves the preprocessor as:
-artifacts/data_transformation/preprocessor.pkl
+- Saves the preprocessor as:
+  artifacts/data_transformation/preprocessor.pkl
 
 3️⃣ Model Training
 
 Trains and tunes 3 models:
 
-Logistic Regression
+- Logistic Regression
 
-Decision Tree
+- Decision Tree
 
-Random Forest
+- Random Forest
 
-Uses GridSearchCV for hyperparameter optimization.
+###### Uses GridSearchCV for hyperparameter optimization.
 
 Outputs:
 
-Best model name
+- Best model name
 
-Best accuracy score
+- Best accuracy score
 
-Saves final model to:
-artifacts/model_trainer/model.pkl
+- Saves final model to:
+  artifacts/model_trainer/model.pkl
 
 4️⃣ Prediction Pipeline
 
 Provides:
 
-CustomClass → Converts user inputs to DataFrame
+- CustomClass → Converts user inputs to DataFrame
 
-PredictionPipeline → Loads model + preprocessor and predicts output
+- PredictionPipeline → Loads model + preprocessor and predicts output
 
 🧠 Best Model Selection
 
 The pipeline:
 
-Evaluates all models
+- Evaluates all models
 
-Compares accuracy
+- Compares accuracy
 
-Selects the best-performing one automatically
+- Selects the best-performing one automatically
 
-Logged and printed:
+- Logged and printed:
 
-Best Model Found, Model Name is : <model>, Accuracy_Score: <value>
+- Best Model Found, Model Name is : <model>, Accuracy_Score: <value>
 
 🗂️ Logging & Exception Handling
 
-All logs stored in /logs/<timestamp>/logfile.log
+*All logs stored in /logs/<timestamp>/logfile.log*
 
-Custom exception class produces descriptive error messages:
+*Custom exception class produces descriptive error messages*:
 
-file name
+- file name
 
-line number
+- line number
 
-root cause
+- root cause
 
 📦 Installation
 git clone <repo_link>
@@ -179,11 +172,11 @@ python src/pipeline/training_pipeline.py
 
 This will:
 
-Ingest data
+- Ingest data
 
-Transform data
+- Transform data
 
-Train and save the best model
+- Train and save the best model
 
 🧪 Running Predictions
 
