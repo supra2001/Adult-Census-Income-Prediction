@@ -15,6 +15,8 @@ A complete end-to-end Machine Learning Pipeline designed to predict whether an i
 - Model comparison across multiple algorithms
 
 - Logging, exception handling, and artifact management
+
+'''
 ML_Pipeline_Income_Prediction/
 │
 ├── artifacts/
@@ -51,6 +53,7 @@ ML_Pipeline_Income_Prediction/
 ├── setup.py
 ├── requirements.txt
 └── README.md
+'''
 
 
 📘 Project Overview
