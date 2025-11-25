@@ -1,0 +1,3 @@
+[ 2025-11-24 14:34:41,788 ] 97 werkzeug - WARNING - * Debugger is active!
+[ 2025-11-24 14:34:41,802 ] 97 werkzeug - INFO - * Debugger PIN: 524-300-690
+[ 2025-11-24 14:34:44,709 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 14:34:44] "GET / HTTP/1.1" 200 -

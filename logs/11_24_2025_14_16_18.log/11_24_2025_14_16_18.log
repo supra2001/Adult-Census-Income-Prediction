@@ -1,0 +1,8 @@
+[ 2025-11-24 14:16:20,769 ] 97 werkzeug - WARNING - * Debugger is active!
+[ 2025-11-24 14:16:20,790 ] 97 werkzeug - INFO - * Debugger PIN: 524-300-690
+[ 2025-11-24 14:16:30,328 ] 97 werkzeug - INFO - * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\flask\\templating.py', reloading
+[ 2025-11-24 14:16:30,329 ] 97 werkzeug - INFO - * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\jinja2\\environment.py', reloading
+[ 2025-11-24 14:16:30,331 ] 97 werkzeug - INFO - * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\jinja2\\loaders.py', reloading
+[ 2025-11-24 14:16:30,354 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 14:16:30] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2025-11-24 14:16:30,579 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 14:16:30] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-11-24 14:16:30,699 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 14:16:30] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -

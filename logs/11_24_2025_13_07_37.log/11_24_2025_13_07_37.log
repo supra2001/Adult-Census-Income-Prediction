@@ -1,0 +1,22 @@
+[ 2025-11-24 13:07:39,453 ] 97 werkzeug - WARNING - * Debugger is active!
+[ 2025-11-24 13:07:39,471 ] 97 werkzeug - INFO - * Debugger PIN: 135-486-070
+[ 2025-11-24 13:09:27,520 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 13:09:27] "GET / HTTP/1.1" 200 -
+[ 2025-11-24 13:09:28,069 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 13:09:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-11-24 13:11:12,722 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 13:11:12] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2025-11-24 13:11:13,292 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 13:11:13] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2025-11-24 13:11:13,296 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 13:11:13] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2025-11-24 13:11:13,699 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 13:11:13] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=2MC8lp6yMgHqoqwJBiLI HTTP/1.1" 200 -
+[ 2025-11-24 13:11:13,941 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 13:11:13] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2025-11-24 13:20:55,605 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 13:20:55] "GET / HTTP/1.1" 200 -
+[ 2025-11-24 13:20:56,080 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 13:20:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-11-24 13:21:01,101 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 13:21:01] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2025-11-24 13:21:01,404 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 13:21:01] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-11-24 13:21:01,464 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 13:21:01] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-11-24 13:21:01,857 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 13:21:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=2MC8lp6yMgHqoqwJBiLI HTTP/1.1[0m" 304 -
+[ 2025-11-24 13:21:02,202 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 13:21:02] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-11-24 13:21:19,240 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 13:21:19] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2025-11-24 13:21:19,291 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 13:21:19] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-11-24 13:21:19,617 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 13:21:19] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-11-24 13:21:19,979 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 13:21:19] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=2MC8lp6yMgHqoqwJBiLI HTTP/1.1[0m" 304 -
+[ 2025-11-24 13:21:20,244 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 13:21:20] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-11-24 13:22:40,766 ] 97 werkzeug - INFO - * Detected change in 'C:\\Users\\SUPRA\\Downloads\\MACHINE LEARNING\\Projects\\ML Projects\\ML Pipeline Project\\app.py', reloading

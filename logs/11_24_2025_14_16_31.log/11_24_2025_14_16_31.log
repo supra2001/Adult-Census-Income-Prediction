@@ -1,0 +1,5 @@
+[ 2025-11-24 14:16:34,318 ] 97 werkzeug - WARNING - * Debugger is active!
+[ 2025-11-24 14:16:34,331 ] 97 werkzeug - INFO - * Debugger PIN: 524-300-690
+[ 2025-11-24 14:16:34,533 ] 97 werkzeug - INFO -127.0.0.1 - - [24/Nov/2025 14:16:34] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=LqJv2IdlGDuUlajKjuX5 HTTP/1.1" 200 -
+[ 2025-11-24 14:20:19,523 ] 97 werkzeug - INFO - * Detected change in 'C:\\Users\\SUPRA\\Downloads\\MACHINE LEARNING\\Projects\\ML Projects\\ML Pipeline Project\\app.py', reloading
+[ 2025-11-24 14:20:19,524 ] 97 werkzeug - INFO - * Detected change in 'C:\\Users\\SUPRA\\Downloads\\MACHINE LEARNING\\Projects\\ML Projects\\ML Pipeline Project\\app.py', reloading
