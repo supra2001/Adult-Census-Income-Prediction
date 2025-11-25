@@ -1,4 +1,4 @@
-# Income Prediction Pipeline using Adult Census Dataset
+# Adult Census Income Prediction
 
 A complete end-to-end Machine Learning Pipeline designed to predict whether an individual earns > $50K or ≤ $50K annually based on demographic and socio-economic attributes from the UCI Adult Census Dataset.
 
